@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-    <pyqgis_plugin name="RoveiQgis" version="2.06">
+    <pyqgis_plugin name="RoveiQgis" version="2.07">
         <description>RoveiQ Desktop Map Application</description>
         <about>RoveMaps Desktop GIS Application</about>
-        <version>2.06</version>
+        <version>2.07</version>
         <qgis_minimum_version>3.38.0</qgis_minimum_version>
         <homepage>http://homepage</homepage>
-        <file_name>roveiqgis.2.06.zip</file_name>
+        <file_name>roveiqgis.2.07.zip</file_name>
         <icon>icon.png</icon>
         <author_name>Russ Middleton</author_name>
         <tracker>http://bugs</tracker>
@@ -16,6 +16,6 @@
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <server>False</server>
-        <download_url>https://russellmiddleton33.github.io/roveiqgis-repo/plugins/roveiqgis.2.06.zip</download_url>
+        <download_url>https://russellmiddleton33.github.io/roveiqgis-repo/plugins/roveiqgis.2.07.zip</download_url>
     </pyqgis_plugin>
 </plugins>
